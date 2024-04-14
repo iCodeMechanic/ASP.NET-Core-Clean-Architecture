@@ -1,0 +1,11 @@
+D:\Project\CleanArchitecture\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Domain\bin\Debug\net8.0\GloboTicket.TicketManagement.Domain.deps.json
+D:\Project\CleanArchitecture\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Domain\bin\Debug\net8.0\GloboTicket.TicketManagement.Domain.dll
+D:\Project\CleanArchitecture\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Domain\bin\Debug\net8.0\GloboTicket.TicketManagement.Domain.pdb
+D:\Project\CleanArchitecture\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Domain\obj\Debug\net8.0\GloboTicket.TicketManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CleanArchitecture\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Domain\obj\Debug\net8.0\GloboTicket.TicketManagement.Domain.AssemblyInfoInputs.cache
+D:\Project\CleanArchitecture\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Domain\obj\Debug\net8.0\GloboTicket.TicketManagement.Domain.AssemblyInfo.cs
+D:\Project\CleanArchitecture\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Domain\obj\Debug\net8.0\GloboTicket.TicketManagement.Domain.csproj.CoreCompileInputs.cache
+D:\Project\CleanArchitecture\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Domain\obj\Debug\net8.0\GloboTicket.TicketManagement.Domain.dll
+D:\Project\CleanArchitecture\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Domain\obj\Debug\net8.0\refint\GloboTicket.TicketManagement.Domain.dll
+D:\Project\CleanArchitecture\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Domain\obj\Debug\net8.0\GloboTicket.TicketManagement.Domain.pdb
+D:\Project\CleanArchitecture\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Domain\obj\Debug\net8.0\ref\GloboTicket.TicketManagement.Domain.dll
